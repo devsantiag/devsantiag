@@ -8,9 +8,9 @@
 ## My name is Fabiano Santiago
 (React JS | Javascript | HTML | CSS | Node.js ) 🚀
 
-- 🌐 Passionate about web development
-- 💡Love a good challenge
-- 🧱 I love creating new things
+- 🌐     Passionate about web development
+- 💡     Love a good challenge
+- 🧱    I love creating new things
 
 <div align="left">
   
