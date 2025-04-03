@@ -2,7 +2,7 @@
 
 ## I'm Fabiano Santiago  
 
-🚀 Web Developer | 💡 Problem Solver | 🏢 Working at **Tel&Com**  
+🚀 Software Developer | 💡 Problem Solver | 🏢 Working at **Tel&Com**  
 
 ### 🔹 About Me  
 - Full-stack developer passionate about building scalable applications  
