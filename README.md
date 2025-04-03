@@ -10,6 +10,12 @@
 - 📚 Lifelong learner, currently exploring advanced C# and Windows Forms development  
 - 🏢 Currently working at **Tel&Com**  
 
+### 🏆 Professional Skills  
+- 🔹 **Network Operations Center (NOC):** Experience with data link management and network monitoring  
+- 🔹 **Nagios Core:** Expertise in setting up and managing monitoring systems  
+- 🔹 **System Administration:** Infrastructure monitoring and troubleshooting  
+- 🔹 **Web Development:** Creating and maintaining applications using modern technologies  
+
 ### 📊 GitHub Stats  
 <div align="left">  
 
@@ -21,7 +27,7 @@
 ### 🛠️ Tech Stack  
 - **Languages:** C#, JavaScript, HTML, CSS, SQL  
 - **Frameworks & Libraries:** .NET, Windows Forms, React, Node.js  
-- **Tools:** Git, GitHub, Visual Studio, VS Code  
+- **Tools:** Git, GitHub, Visual Studio, VS Code, Nagios Core  
 - **Databases:** MySQL, PostgreSQL  
 
 ### 📫 Connect with Me  
@@ -29,5 +35,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/devsantiag)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
 
----
+---  
 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
