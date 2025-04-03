@@ -26,9 +26,9 @@
 
 ### 🛠️ Tech Stack  
 - **Languages:** C#, JavaScript, HTML, CSS, SQL  
-- **Frameworks & Libraries:** .NET, Windows Forms, React, Node.js  
-- **Tools:** Git, GitHub, Visual Studio, VS Code, Nagios Core  
-- **Databases:** MySQL, PostgreSQL  
+- **Frameworks & Libraries:** .NET, Windows Forms
+- **Tools:** Git, GitHub, Visual Studio, VS Code, Nagios Core and PowerShell
+- **Databases:** MySQL
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devsantiag/)  
