@@ -9,8 +9,12 @@
 - Experienced in **NOC**, **Nagios Core**, and **System Administration**  
 - Constantly learning and improving my skills  
 
-### 📊 GitHub Stats  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsantiag&theme=blue-white&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+### 📈 GitHub Stats
+
+[![Fabiano Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsantiag&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsantiag&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🛠️ Tech Stack  
 - **Languages:** C#, JavaScript, SQL  
