@@ -15,11 +15,10 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsantiag&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ### 🛠️ Tech Stack  
-- **Languages:** C#, JavaScript, SQL  
+- **Languages:** C#, JavaScript, SQL, Shell (Bash)  
 - **Frameworks:** .NET, Windows Forms  
-- **Tools:** Git, Visual Studio, VS Code, Nagios Core, PowerShell  
+- **Tools:** Git, Visual Studio, VS Code, Nagios Core, PowerShell, Git Bash  
 - **Database:** MySQL  
 
 ### 📫 Connect with Me  
