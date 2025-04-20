@@ -24,18 +24,5 @@
 
 ---
 
-### 💻 Linguagens e Contribuições
-
-[![Top Languages](https://next.ossinsight.io/widgets/user-languages/thumbnail.png?user_id=98044979)](https://next.ossinsight.io/widgets/user-languages?user_id=98044979)
-[![Contribuições por organização](https://next.ossinsight.io/widgets/user-organizations/thumbnail.png?user_id=98044979)](https://next.ossinsight.io/widgets/user-organizations?user_id=98044979)
-
----
-
-### 🚀 Meus repositórios em destaque
-
-[![Top Repos](https://next.ossinsight.io/widgets/user-top-repos/thumbnail.png?user_id=98044979)](https://next.ossinsight.io/widgets/user-top-repos?user_id=98044979)
-
----
-
 📫 **Como me encontrar:**
 - GitHub: [@devsantiag](https://github.com/devsantiag)
