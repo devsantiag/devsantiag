@@ -19,3 +19,4 @@ Aqui estão algumas coisas rápidas sobre mim:
 
 
 [![Activity Trends](https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto)](https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369)
+[![Org Code Changes - Top Repositories](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=41986369&period=past_28_days&image_size=3x6)](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=41986369&period=past_28_days)
