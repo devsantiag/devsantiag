@@ -2,7 +2,7 @@
 
 **Seja bem-vindo ao meu perfil do GitHub! É um prazer ter você aqui.**
 
-[![Github](https://img.shields.io/github/followers/devsantiag?label=Follow&style=social)](https://github.com/devsantiag)
+---
 
 Aqui estão algumas coisas rápidas sobre mim:
 
@@ -14,5 +14,7 @@ Aqui estão algumas coisas rápidas sobre mim:
 - 🐧 Faço scripts em **Bash** usando **Git Bash** no Windows para integração com aplicações em C#.
 - 🌱 Sempre aprendendo algo novo!
 
+---
+
 📫 **Como me encontrar:**
-- GitHub: [@devsantiag](https://github.com/devsantiag)
+- [![Github](https://img.shields.io/github/followers/devsantiag?label=Follow&style=social)](https://github.com/devsantiag)
