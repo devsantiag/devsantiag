@@ -16,7 +16,3 @@ Aqui estão algumas coisas rápidas sobre mim:
 
 📫 **Como me encontrar:**
 - GitHub: [@devsantiag](https://github.com/devsantiag)
-
-
-[![Org Code Changes - Top Repositories](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=98044979&period=past_28_days&image_size=3x6)](https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=98044979&period=past_28_days)
-
