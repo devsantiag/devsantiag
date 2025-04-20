@@ -2,8 +2,6 @@
 
 **Seja bem-vindo ao meu perfil do GitHub! É um prazer ter você aqui.**
 
-[![Github](https://img.shields.io/github/followers/devsantiag?label=Follow&style=social)](https://github.com/devsantiag)
-
 ---
 
 ### 👨‍💻 Sobre mim
@@ -25,4 +23,4 @@
 ---
 
 📫 **Como me encontrar:**
-- GitHub: [@devsantiag](https://github.com/devsantiag)
+[![Github](https://img.shields.io/github/followers/devsantiag?label=Follow&style=social)](https://github.com/devsantiag)
