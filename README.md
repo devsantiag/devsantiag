@@ -16,6 +16,7 @@ Aqui estão algumas coisas rápidas sobre mim:
 
 📫 **Como me encontrar:**
 - GitHub: [@devsantiag](https://github.com/devsantiag)
+- 
+[![Dashboard stats of @devsantiag](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=98044979&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=98044979)
 
-[![Dashboard stats of @devsantiag](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=98044979&image_size=auto)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=98044979)
 
