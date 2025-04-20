@@ -19,10 +19,3 @@ Aqui estão algumas coisas rápidas sobre mim:
 - 
 [![Dashboard stats of @devsantiag](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=98044979&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=98044979)
 
-<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=SEU_REPO_ID&limit=30" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=SEU_REPO_ID&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Active Contributors of SEU_REPO - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=SEU_REPO_ID&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
-  </picture>
-</a>
-
