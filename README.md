@@ -7,8 +7,8 @@
 Aqui estão algumas coisas rápidas sobre mim:
 
 - 💼 Atualmente trabalho na **Tel&Com**.
-- 👨‍🎓 Estudante de **Direito** e futuro **empresário**.
-- 🧑‍💻 Apaixonado por desenvolvimento web e por criar soluções inovadoras.
+- 👨‍🎓 Estudante de **Direito**.
+- 🧑‍💻 Apaixonado por desenvolvimento
 - 🛠️ Estou desenvolvendo projetos em **C# com Windows Forms**, incluindo automações e ferramentas internas.
 - 💬 Gosto de aprender, compartilhar conhecimento e encarar novos desafios!
 - 🐧 Faço scripts em **Bash** usando **Git Bash** no Windows para integração com aplicações em C#.
