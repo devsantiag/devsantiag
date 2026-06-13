@@ -44,4 +44,4 @@ See [featured repositories](https://github.com/devsantiag?tab=repositories) for 
 
 - **Email:** available upon request
 - **GitHub:** [@devsantiag](https://github.com/devsantiag)
-- **LinkedIn:** [Santiago](https://linkedin.com/in/devsantiag)
+- **LinkedIn:** [Santiago]([https://linkedin.com/in/fabiano_santiago](https://www.linkedin.com/in/fabiano-santiago/))
